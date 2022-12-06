@@ -4,4 +4,4 @@ Será descrito toda etapa do projeto de criação do site; como links, imagens, 
 
 Para aplicar Link utilizamos [   ] - em seguida - ()
 
-[One Piece](https://onepieceex.net/manga-1069/)
+
